@@ -1,0 +1,21 @@
+
+button {
+    text-align: center;
+    background-color: yellow;
+    font-size: 2rem;
+    color: red;
+    border: solid red 2px;
+    background-color: rgb(0, 245, 249);;
+
+}
+
+#button {
+    text-align: center;
+    
+}
+
+#button :hover {
+    background-color: hotpink;
+    color: lime;
+    border: dotted lime 2px;
+}
